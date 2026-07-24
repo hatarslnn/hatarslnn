@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/hatarslnn](https://github.com/hatarslnn)
 
-- 📝 I regularly write articles on [https://hasanataarslan.pages.dev/#blog](https://hasanataarslan.pages.dev/#blog)
+- 📝 I regularly write articles on [https://hasanataarslan.pages.dev/blog/](https://hasanataarslan.pages.dev/blog/)
 
 - 📫 How to reach me **hasanataarslan@outlook.com**
 
